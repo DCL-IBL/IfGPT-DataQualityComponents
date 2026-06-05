@@ -1,0 +1,267 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dcl.bas.bg/ifgpt/metadata-schema/v1.0",
+  "title": "IfGPT Document Metadata Schema",
+  "description": "Metadata schema for textual documents in the IfGPT Bulgarian language dataset. 15 mandatory fields + 8 optional fields.",
+  "type": "object",
+
+  "required": [
+    "Identifier",
+    "Licence",
+    "PublicationDate",
+    "DocumentTitle",
+    "Source",
+    "Medium",
+    "Url",
+    "Domain",
+    "Keywords",
+    "NumberWords",
+    "NumberSentences",
+    "NumberParagraphs",
+    "NumberTokens",
+    "PersonallyIdentifiableInformation",
+    "BiasedInformation"
+  ],
+
+  "properties": {
+
+    "Identifier": {
+      "type": "string",
+      "description": "Unique document identifier with the language prefix 'bg'.",
+      "pattern": "^bg_",
+      "examples": ["bg_bnc_12345", "bg_MARCELL_doc001", "bg_CURLICAT_xyz"]
+    },
+
+    "Licence": {
+      "type": "string",
+      "description": "Licence name with classification by type (open, restricted, etc.).",
+      "enum": [
+        "CC0",
+        "CC0-1.0",
+        "CC-BY-4.0",
+        "CC-BY-SA-4.0",
+        "CC-BY-NC-4.0",
+        "CC-BY-NC-SA-4.0",
+        "Restricted",
+        "Proprietary",
+        "Unknown"
+      ]
+    },
+
+    "PublicationDate": {
+      "type": "string",
+      "description": "Date of publication of the text (yyyy-mm-dd).",
+      "pattern": "^(\\d{4}-\\d{2}-\\d{2})?$",
+      "examples": ["2023-04-15", "2019-01-01", ""]
+    },
+
+    "DocumentTitle": {
+      "type": "string",
+      "description": "Title of the document.",
+      "examples": ["Закон за защита на данните", "Статия за климатичните промени"]
+    },
+
+    "Source": {
+      "type": "string",
+      "description": "Publishing organisation, media outlet or institutional originator.",
+      "examples": ["Министерски съвет", "БНР", "Сега"]
+    },
+
+    "Medium": {
+      "type": "string",
+      "description": "Modality of the resource.",
+      "enum": ["textual", "multimodal"]
+    },
+
+    "Url": {
+      "type": "string",
+      "description": "Original web address of the document.",
+      "format": "uri",
+      "examples": ["https://www.lex.bg/laws/ldoc/123", ""]
+    },
+
+    "Domain": {
+      "type": "array",
+      "description": "Up to six subject areas from a controlled vocabulary.",
+      "maxItems": 6,
+      "items": {
+        "type": "string",
+        "enum": [
+          "Държавно управление",
+          "Право и законодателство",
+          "Икономика и финанси",
+          "Образование",
+          "Наука и технологии",
+          "Здравеопазване",
+          "Култура и изкуство",
+          "Спорт",
+          "Медии и журналистика",
+          "Общество и политика",
+          "Околна среда",
+          "Религия",
+          "История",
+          "Литература и художествена проза",
+          "Неформална комуникация",
+          "Друго"
+        ]
+      },
+      "examples": [["Държавно управление"], ["Медии и журналистика", "Общество и политика"]]
+    },
+
+    "Keywords": {
+      "type": "array",
+      "description": "Up to six free-text keywords characterising the content.",
+      "maxItems": 6,
+      "items": { "type": "string" },
+      "examples": [["климат", "законодателство", "ЕС"]]
+    },
+
+    "NumberWords": {
+      "type": "integer",
+      "description": "Total number of words (non-punctuation tokens).",
+      "minimum": 0
+    },
+
+    "NumberSentences": {
+      "type": "integer",
+      "description": "Total number of sentences.",
+      "minimum": 0
+    },
+
+    "NumberParagraphs": {
+      "type": "integer",
+      "description": "Total number of paragraphs.",
+      "minimum": 0
+    },
+
+    "NumberTokens": {
+      "type": "integer",
+      "description": "Total number of tokens (words + punctuation).",
+      "minimum": 0
+    },
+
+    "PersonallyIdentifiableInformation": {
+      "type": "array",
+      "description": "Per-sentence vector. Each entry is the proportion of tokens in that sentence flagged as personally identifiable information, in [0,1]. Length equals NumberSentences.",
+      "items": {
+        "type": "number",
+        "minimum": 0.0,
+        "maximum": 1.0
+      },
+      "examples": [[0.0, 0.0, 0.15, 0.0, 0.05]]
+    },
+
+    "BiasedInformation": {
+      "type": "array",
+      "description": "Per-sentence vector. Each entry is the proportion of tokens in that sentence flagged as potentially biased (signal-evaluator pair coverage), in [0,1]. Length equals NumberSentences.",
+      "items": {
+        "type": "number",
+        "minimum": 0.0,
+        "maximum": 1.0
+      },
+      "examples": [[0.0, 0.0, 0.0, 0.10, 0.0]]
+    },
+
+    "Author": {
+      "type": "array",
+      "description": "[Optional] Name(s) of the author(s).",
+      "items": { "type": "string" },
+      "examples": [["Иван Иванов"], ["Агенция БТА"]]
+    },
+
+    "Style": {
+      "type": "string",
+      "description": "[Optional] Stylistic register of the document.",
+      "enum": [
+        "Административен",
+        "Журналистически",
+        "Научен",
+        "Художествен",
+        "Разговорен",
+        "Правен",
+        "Технически",
+        "Неформален",
+        ""
+      ]
+    },
+
+    "Type": {
+      "type": "string",
+      "description": "[Optional] Document genre.",
+      "enum": [
+        "Закон",
+        "Наредба",
+        "Решение",
+        "Статия",
+        "Книга",
+        "Доклад",
+        "Интервю",
+        "Коментар",
+        "Форум",
+        "Блог",
+        "Уикипедия",
+        "Друго",
+        ""
+      ]
+    },
+
+    "Subdomain": {
+      "type": "array",
+      "description": "[Optional] Narrower thematic classification, hierarchically linked to Domain.",
+      "maxItems": 6,
+      "items": { "type": "string" },
+      "examples": [["Европейско законодателство"], ["Климатична политика"]]
+    },
+
+    "TranslatedDocument": {
+      "type": ["boolean", "string"],
+      "description": "[Optional] true = translation into Bulgarian; false = original Bulgarian text.",
+      "examples": [false, true, ""]
+    },
+
+    "CollectionDate": {
+      "type": "string",
+      "description": "[Optional] Date of acquisition into the collection (yyyy-mm-dd).",
+      "pattern": "^(\\d{4}-\\d{2}-\\d{2})?$",
+      "examples": ["2024-03-10", ""]
+    },
+
+    "LicenceLink": {
+      "type": "string",
+      "description": "[Optional] URL of the licence text.",
+      "format": "uri",
+      "examples": [
+        "https://creativecommons.org/public-domain/cc0/",
+        "https://elrc-share.eu/static/metashare/licences/CC0-1.0.pdf",
+        ""
+      ]
+    },
+
+    "TaskCategories": {
+      "type": "array",
+      "description": "[Optional] Anticipated NLP applications from a predefined list.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Language Modelling",
+          "Text Classification",
+          "Named Entity Recognition",
+          "Machine Translation",
+          "Summarisation",
+          "Question Answering",
+          "Sentiment Analysis",
+          "Bias Detection",
+          "PII Detection",
+          "Information Extraction",
+          "Coreference Resolution",
+          "Dependency Parsing",
+          "Other"
+        ]
+      },
+      "examples": [["Language Modelling", "Named Entity Recognition"]]
+    }
+
+  },
+
+  "additionalProperties": false
+}
