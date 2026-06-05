@@ -1,7 +1,7 @@
 # IfGPT DATASET Qiality Components
 
 ## Objectives of the project IfGPT
-The **Reasoning-BG Benchmark** is developed within the project **IfGPT: Infrastructure for Fine-tuning Pre-trained Large Language Models** which aims to establish a freely accessible infrastructure for the selection and pre-processing of large datasets for Bulgarian as well as tailored data for particular industries and fine-tuning suitable freely available large language models for specific purposes.
+The **IfGPT Qiality Pipeline** is developed within the project **IfGPT: Infrastructure for Fine-tuning Pre-trained Large Language Models** which aims to establish a freely accessible infrastructure for the selection and pre-processing of large datasets for Bulgarian as well as tailored data for particular industries and fine-tuning suitable freely available large language models for specific purposes.
 
 ## IfGPT DATASET Qiality Pipeline
 
