@@ -30,7 +30,7 @@ The pipeline includes:
   per-sentence coverage ratio as the `BiasedInformation` vector in metadata
 
 The full schema is enforced by `DocumentMetadata` (15 mandatory + 8 optional fields) and
-the complete flow is orchestrated by `IfGPTPipeline`, with `IfGPTDatasetProcessor` as the
+the complete flow is managed by `IfGPTPipeline`, with `IfGPTDatasetProcessor` as the
 main entry point.
 
 ```
