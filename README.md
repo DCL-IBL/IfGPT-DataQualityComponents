@@ -34,7 +34,7 @@ the complete flow is orchestrated by `IfGPTPipeline`, with `IfGPTDatasetProcesso
 main entry point.
 
 ```
-source processors → sentence split → clean → dedup → PII + bias → counts → persist
+source processors → sentence split → clean → deduplication → PII → bias → counts → final structuring
 ```
 
 ## License
