@@ -1,0 +1,3786 @@
+word,POS,signal,biasType,biasValue,derogatory,colloquial,forms,,
+безпомощност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+бременна,A,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+хуля,V,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+уважение,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+миротворчески,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+баща,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+жълтеникав,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+панкреатит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+възпламенимост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+доверчив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+надменен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.625
+немит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+простак,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+отбрана,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+високопоставен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нервна прострация,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+шефка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+уязвимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+булка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+поликистозна болест на бъбреците,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+гърч,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+oткровение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+засрамен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нечовешки,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+примитивен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+съвсем,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+измамник,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0.625
+неплодотворен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+избухливост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+фанатик,N,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+опак,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+арапин,N,FALSE,race_ethnicity,negative,TRUE,TRUE,FALSE,0,0
+момиче,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+безполов,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тетаничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+травмиращ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+куц,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+разтежение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+болнав,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+добродетелен,A,FALSE,,positive,TRUE,FALSE,FALSE,0.875,0
+некомфортен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+могъщ,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+алголагния,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+кучка,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+снобски,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отхвърлям,V,TRUE,,negative,FALSE,FALSE,FALSE,0,0.875
+невероятен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+негативен стимул,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+сополив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+сърдечна недостатъчност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+скромност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невъзможен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+праведност,N,FALSE,,positive,TRUE,FALSE,FALSE,0.75,0.125
+неизравнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разсърдя,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+айляк,A,FALSE,,,FALSE,FALSE,TRUE,0,0.625
+безлесен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непоносим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+враждуващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+бандит,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+едем,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нерезервиран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+недървесен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+недъгавост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нелеплив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+холецистектомия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нарцисизъм,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+ненадеждност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+Централен Къшинг,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+полупаразитно растение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+тоталитарен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+чернодробен рак,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неумел,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+капрова киселина,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мигрантка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+плачещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+задоволство,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+тъмен,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0.75
+славен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+драсканица,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+питателност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+внушителен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+импозантен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+опровергавам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+осъден,A,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+обиждам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+дебелак,N,FALSE,appearance,negative,TRUE,FALSE,TRUE,0,0
+ангелски,A,FALSE,religion,positive,FALSE,FALSE,FALSE,0.625,0
+лоен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+олимпийски,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+лицемер,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+тривиален,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+немодернизиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+падение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+културен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+влюбчив,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+ярък,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+любезност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+баптист,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+враждебен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+открадвам,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+различие,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+блажен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+мукополизахаридоза тип I,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+почтителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+унижение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.375
+злопаметен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+спиноцеребрално заболяване,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+недовършен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+крокодилски сълзи,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+изнурителност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+изнурителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+дамски,A,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+невралгична болка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неосезаем,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+извънпланов,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+увулит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+безвъзвратен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+просяк,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+правилен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+атипична депресия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+светост,N,FALSE,religion,positive,TRUE,FALSE,FALSE,0,0
+роден,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+дълготърпеливост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+обезценен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+пъшкане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+злина,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+онеправдавам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+венозен синус,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неразделен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+промискуитетен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+самочувствие,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+вторичен,A,FALSE,,,FALSE,FALSE,FALSE,0.333,0.667
+сексапилен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нездравословност,N,FALSE,,,FALSE,FALSE,FALSE,0.444,0.556
+аморален,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+лимитиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+увреден,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+еквилибрист,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+благословен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+тежко,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+дискриминирам,V,TRUE,,negative,FALSE,FALSE,FALSE,0,0
+тършуване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+различен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+медицинска сестра,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+фаталистичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+непосилност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+непривикнал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+скромен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0.875
+заблуден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+снизходителен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+недемонстративен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+гордост,N,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.25
+изтощим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+патологичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неизменим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непоносимост към лизин,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нечестност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+безпомощен,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0.75
+пъклен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+натраплив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+доходен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+умело,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хроничен периодонтит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+конфабулация,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+уникум,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+благословено,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дилетантски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+очаквателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+удобство,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неподходящ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+безгрижие,N,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+затлъстяване,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+проповедник,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+циклодеструктивна операция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+Хемодил,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мелодичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+глупост,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+незасенчен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хардкор,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+разнообразие,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+зловонна хрема,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+основен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+болестен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+епископ,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+баба,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+безавариен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несъмнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+притеснителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неравенство,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безжичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+за нещастие,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неблагодарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+приглушен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+благороден,A,FALSE,,positive,TRUE,FALSE,FALSE,0.625,0
+мъртвородено бебе,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вдъхновяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+нистагъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+измъча се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+псувам,V,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+непоправим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+енергично,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+детски паралич,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лептоменингит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+остеолиза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несъвместим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+обичам,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безгрижен,A,FALSE,,negative,TRUE,FALSE,FALSE,0.625,0
+едрозърнест,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несправедливост,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+харесвам,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+феминистка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+безогледен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+заболяване на кръвта,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+афективно разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+осъзнавам се,V,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+раздвоен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+епилептичен припадък,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+справедливост,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+смразяващ кръвта,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+сътресение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+истинен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+нерегистриран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нехристоподобен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+симпатяга,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+драскулка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неизменен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нравя се,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+добра форма,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+несвяст,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+полидипсия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+свръхестествен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+негативен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+фантазия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+Болест на Кушинг,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+несклонен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+здравомислещ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неудоволствие,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+безбожност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+леке,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хроничен гастрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+усилен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+външност,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+непометен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+унищожавам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+ясен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+херпесна екзема на Капоши,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0
+оголен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+облагородяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+болезнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+запален,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+мършавеляк,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+фантазьорски,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+подвеждащо,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+симптом на фантомния крайник,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неприятен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.875
+сияещ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+екстремист,N,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+одинофагия,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+кълна,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+непротиворечив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+дикенсовски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подчинен,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0.75
+травматофобия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+гигантскоклетъчен артерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+диакритичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ограничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нервен стомах,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разточителен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+безсърдечие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нематериален актив,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+опасение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+плевралгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+луминесценция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+блефарит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+неотсечен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+търговско качество,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+сензационен,A,FALSE,,,FALSE,FALSE,FALSE,1,0
+пастьорелоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0.25,0.625
+съдружник,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+нереден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мухлясал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+пептична улцерация,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+прикрит,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+аморално,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лошо,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неодобрителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мразовит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+нелюбезност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+правоверен,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+напълно сух,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+демагог,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+невъплътен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+невеселост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+белег,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+ентерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+тлъстелин,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+ентусиазиран,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+сумрачен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+малнутриция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+привлека,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непристоен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+кръвно заболяване,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+притесненост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+трепач,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+афазик,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разпалващ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+недекориран,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+непокорен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0.75
+усърден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+прост,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+енергичен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+напразно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неустойчив,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+непречупен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+отравяне,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+моден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+целиакия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мъка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неоперативен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+цирей,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+весело,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+имагинерност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+искрящ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+произход,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+немелодичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+отровен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+измятане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неспираем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+офталмит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+ненадежден,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.875
+хипокалцемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+победител,N,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+ерген,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+изкълчване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+зверски,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+укротен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+ликуващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+нетактичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+циклофрения,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+гъделичкане,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+момче,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+страдащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+страдащ,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+шедьовър,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+инсомния,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+възпаление на венците,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+молитва,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+поликистозни бъбреци,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+избавям,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+неприветливост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+хленчещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+действително,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+вероотстъпник,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+заключителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+активен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+бушуващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неинфектиран,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нефокусиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+миометрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+гибелен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+любовен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+неударен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+офталмия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+супраинфекция,N,TRUE,disability,,FALSE,FALSE,FALSE,0.25,0.625
+хистерия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+богаташ,N,FALSE,,positive,FALSE,FALSE,TRUE,0,0
+разпуснат,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+отвращавам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+раздразнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+избивам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+фашист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+интерпретируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+оздравявам,V,TRUE,disability,positive,FALSE,FALSE,FALSE,0,0
+съвършен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+шеговит,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+неприятно,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+смърдя,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неприемлив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+чистосърдечно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+недатируем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нефункциониращ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+националност,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+напакостявам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+дъщеря,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+упорит,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0.75
+незамърсен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+завладявам,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+дяволски,A,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+тежък,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+бежанец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+безочлив,A,FALSE,,negative,TRUE,FALSE,FALSE,0.75,0.125
+неразработен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+херкулесовски,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+септичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+темпорален артерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+синдром на Даун,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+дебелея,V,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+некадърен човек,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+шумоизолиращ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+пакостлив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вдовец,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+ругая,V,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+мигрант,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+интумесценция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мъчение,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+незакрепен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неотложимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разхвърлян,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+биполярен,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+бездействащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+афазиен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+злодей,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+изкупвам,V,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+устрем,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+негниещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+фарисейски,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+гадост,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+мъченик,N,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+гърлест,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отслабващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+кървясал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+надсмея се,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+суперторнадо,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+балансьор,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+важен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+ретинит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+обясним,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неизпълним,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+боязлив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+небрежен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+мюсюлманин,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+непривлекателност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+подготвен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дебелак,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+гравитационна бомба,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+свадлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+срам,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+почитание,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+разтревожен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+фантомен крайник,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+страховит,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хаотичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+негър,N,FALSE,race_ethnicity,negative,TRUE,TRUE,FALSE,0,0
+внушително,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+страхлив,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+помпозен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+навъсен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+пастьоризация,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+слабичък,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неизносен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+благоговеещ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+нетърпелив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+щателен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+чистосърдечие,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+бежанка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+престъпно нехайство,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недиректно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+непродуктивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+набразденост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+балансираност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+благоговеен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+некомпетентен човек,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+добри маниери,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+непозволеност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+бездомен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+спастичен пикочен мехур,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+зашеметяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+без подготовка,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+чудатост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+перящ се,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+постепенен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неопровержим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+върховен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+завладяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+слънце,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+демонизация,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мюсюлманка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+разколебан,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нелюбящ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+съмнителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+умствено изтощение,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+сърдечност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+плодороден,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+горещ картоф,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изключение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+чистосърдечен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+демимонд,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+некомерсиален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+затруднителност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+непригоден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+занемарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нагласяем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+умелост,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+мамя,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+запазен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+лизинемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неблагосклонен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неакцентуван,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+несъизмерим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+страст,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+размирен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+незавещан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+положителен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+фигура,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+изтезание,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+атакуем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вонящ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+раболепен,A,FALSE,,negative,TRUE,FALSE,FALSE,0.75,0
+безразборен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+похвалявам,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+безбожие,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+рядък,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+добро,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+бабичка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+добре,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+полиневрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+биполярно разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+негоден за продан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+еретик,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+депресия,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+покерджийско лице,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+робски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+преданост,N,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.25
+кръвоизлив от матката,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+кохерентност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+металорежещ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+обсебване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+печално,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+послушен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+педикулоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+зеленчук,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+благоприятност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+грозен,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+нелепкав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+фиксиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+забележим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+холецистит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неохота,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+стафилит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неспокойствие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+възбуденост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мъжкар,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+нисък статут,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+развален,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+нисък статус,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+агамен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прямота,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+религиозен,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+пептична язва,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+непобедимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+злостно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+промишлен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+синергистично,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+недоволство,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+раболепие,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неуместен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+перитонеално възпаление,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лекарство против глисти,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+нетоксичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+опърпан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+слабея,V,FALSE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+бездарност,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+нефритен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+угриженост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+боготворене,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+фантомен синдром на крайник с болка,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+задължителен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+борелиоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+по-лош,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+чупливост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+артерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+мразя,V,FALSE,,,TRUE,FALSE,FALSE,0,0.75
+нечист,A,FALSE,,negative,FALSE,FALSE,FALSE,0.625,0
+освещавам,V,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+противозаконен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+очерням,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+синдром на внезапна бебешка смърт,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0.25
+криопатия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+индиректно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+непрофесионален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+леснина,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+мършав,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+разсъдлив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+запленяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неудачен,A,FALSE,,,FALSE,FALSE,FALSE,0,1
+болестност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+здравословен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+незаразен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+кучешка лептоспироза,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+хищник,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неизменимост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+спрян,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+с недостатъчен персонал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+съгласуваност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+болка във венците,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+инконтиненция на урината,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+пренебрежение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+цинкова недостатъчност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+надмощие,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кич,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+нефрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+непробиваем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+спрял,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тъп,A,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+добродетел,N,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0.125
+изчистваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ожесточен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+похвалност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+мека вода,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+перитонит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+спъване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+шизотипно разстройство на личността,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+безбожен,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+блокиране,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+кукуригу,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+безочливо,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ругателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+пиорея,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+Ченстохова,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+печален,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+слабак,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+караконджул,N,FALSE,,,FALSE,FALSE,FALSE,0.444,0.556
+коагулационен фактор,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+чуждестранен,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+възмутен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+убивам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+препотвърждение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+трудова терапия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+добрина,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0.125
+несвоевременен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неподкупност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+голямо количество,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неопетнен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+добра кондиция,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+трезв,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+бубон,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+нежизнеспособен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+премереност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+арогантен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+невъзвръщаем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неловък,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отсъстващ,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дислексия,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+разяждащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+монахиня,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+сектант,N,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+болезнено усещане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вибриращ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+парализиран,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+понижена функция на щитовидната жлеза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+наивен,A,FALSE,,negative,FALSE,FALSE,FALSE,0.625,0.125
+парализирам,V,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+изтънченост,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+поликистоза на бъбреците,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+стоически,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+грозно,Adv,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+работлив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отчаяние,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+извънмерност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ненамазан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+анозмия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неоригинален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+високоморален,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+обикновеност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+женкар,N,TRUE,gender,negative,FALSE,FALSE,FALSE,0,0
+пришка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+сенчест,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+безреден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ненавидя,V,FALSE,,,TRUE,FALSE,FALSE,0,0.75
+мерзък,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+фунгициден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неграматичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+синдром на Кушинг,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+безног,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пасивен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.75
+нагъл,A,FALSE,,negative,TRUE,FALSE,FALSE,0.75,0.125
+друсащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+щедър,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+превъзходство,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+полиартеритис нодоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неотлагаемост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+възхита,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+скърпен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недружелюбност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+почтеност,N,FALSE,,positive,FALSE,FALSE,FALSE,0.875,0
+софистки,A,FALSE,,,FALSE,FALSE,FALSE,0.222,0.778
+обезболен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+отлично постижение,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+разлагане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+благоволение,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+смрад,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+незаменим,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+суеверен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неизбежност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ротавирус,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+аблативен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+заселник,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+аутистка,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+вбесяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+успокоителен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+хиперкинетичен синдром,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0.125
+аскет,N,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+анализируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+носталгичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+всеобхватен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+изразителност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неспретнат,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+приблизителен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+некласифициран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+министърка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+патриархат,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+педофил,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+ограничена отговорност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+предполагаема форма на живот,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+позеленял,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+езофагит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+проклятие,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+синовит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+при закрити врати,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+уви,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+липса на обоняние,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+аметоптерин,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ненатрапчивост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+фактор на Кристмас,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хиперпирексия,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+идеал,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+червив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+човек със зрително увреждане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+досаден,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.75
+етичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+холангит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+безсърдечен,A,FALSE,,negative,FALSE,FALSE,FALSE,0.125,0.875
+едър,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+оспорим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+душевно терзание,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+специални нужди,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+извиним,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+Централен Кушинг,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+майчинство,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0.75,0
+сочен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+гърлен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тъмнокож,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+отстъпник,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+мъжки,A,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+домакиня,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+куц,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+необязден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прибиращ се,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+богохулствам,V,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+неразчленен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+контрактилен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пъдпъдък,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пронизващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+беззвезден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хемохроматоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+загубен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+незадоволителност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+некоректен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+бронхопневмония,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+злочестина,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непреработен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хаджия,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+трескав,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+страшен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+бунтовен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+оборим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+с обожание,Adv,FALSE,,,FALSE,FALSE,FALSE,0.875,0.125
+евтин,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+инвалид,N,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0.75
+плача,V,FALSE,,,FALSE,FALSE,TRUE,0.125,0.625
+непроверим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+наличен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подмазвам,V,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+ромка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+подмазвач,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+погубен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невярващ,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+неискрен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мекота,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+склерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+мафиот,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+обезнаследен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ядовит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+находчив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неимунизиран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+покръствам,V,FALSE,religion,neutral,FALSE,FALSE,FALSE,0,0
+диагноза,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+карпален канал,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нетолерантен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+фантазност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+умствена умора,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+гладкокос,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хипохондричен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разложим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+вредителски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+груб,A,FALSE,,negative,TRUE,FALSE,FALSE,0.125,0.875
+неживописен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+неподдаващ се,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+аквафобен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неначенат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+недохранване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+тиранин,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+дизентерия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+фалит,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+аортит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+абазия,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+невъзприемащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вълнуващ,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0.25
+надут,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+парцалан,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неупотребяван,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+величая,V,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+нормален,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+дебелашки,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+Лаймска борелиоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+немислим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+благородно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+неподвързан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+инфекциозен агент,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+пиларна кератоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+поддържане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+сълзливост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+черти,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+самонадеяност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+маточно кръвотечение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+костелив,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+заплетен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+реален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+порицаем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+безпогрешен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+подсмърчащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непротивопоставен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+своенравност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+непроменим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+прелюбодеен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+идеализиран,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+успокоително,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+вид,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+право на свобода,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неузнаваем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+принципен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+старомоден,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+хидропс,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+джамия,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+претенциозен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+вмирисан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неугледност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+палиатив,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дружелюбен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+стара чанта,N,FALSE,,,FALSE,FALSE,TRUE,0,0.625
+болен от бронхит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разводнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нетеатрален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+пищно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+къс,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0.625
+хеморагична треска от Ласа,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+мъртвородено дете,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+негативно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+диспепсия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неблагоприятно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+американка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+ерудиран,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+астматик,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+непроменяемост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+известност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безутешен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+костюм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изисканост,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+инатлив,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+астматично болен,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+възрастен,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+оневинен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+предпазлив,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+недоходоносен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+логичност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+овехтял,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разграничителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+слабост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+наказателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+романтика,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+уханен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+чуама,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+плах,A,FALSE,,negative,FALSE,FALSE,FALSE,0.625,0
+темпорален артериит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+непогрешимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+европейка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+оскотявам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+простим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+оскърбявам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+незачитане,N,FALSE,,,FALSE,FALSE,FALSE,0,1
+потаен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+конгломератен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+проститутка,N,FALSE,gender,negative,TRUE,FALSE,FALSE,0,0
+сантименталност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+размисляне,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непреброден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+некоригиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неразвит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+съпруг,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+инвазивен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+видим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+обезчувствявам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+необвързан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+съвестност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+параплегичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+покерджийско изражение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+рехабилитирам,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+объркващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+оценяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невмешателски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+стрелвам се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лепра,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+незащитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+съдбовен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.375
+безехов,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+много верен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+бронежилетка,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+висша класа,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+токсоид,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+подкупен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+доброжелателен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+инвалидност,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0.875
+непрепечен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+злъчен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+излекувам се,V,TRUE,disability,positive,FALSE,FALSE,FALSE,0.625,0
+неясен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+превратност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непроменен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тълкуваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+аутомизофобия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+любезен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+генерализиран неконвулсивен епилептичен припадък,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+напълно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+безотговорен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+смекчаващо вината обстоятелство,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+победен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+меланхолия,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+удобен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+оплешивявам,V,TRUE,appearance,negative,FALSE,FALSE,FALSE,0,0
+хубост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нецелесъобразност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+индуистка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+нерешимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+комфортен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+анизотропен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+трефе,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мръсотия,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+конвулсивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+клетва,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+ужасяващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+нелегален,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+импозантно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+обещаващ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+ферментируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+осакатя,V,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+трънлив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+побожна,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+амилоидоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+с добро,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+разбиращ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невидимост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+отравяне,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+унизителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неподатлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+талантлив,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+остър респираторен дистрес синдром,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+просветен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+грим,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+стационарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+верноподаник,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+грип,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0.125
+женствен,A,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+мошеник,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0.625
+негодник,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+рудиментарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+морбиден,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+несекретен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вродена афибриногенемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+конфликтен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+даровит,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+неспособен човек,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+остеит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+красавец,N,FALSE,appearance,positive,TRUE,FALSE,FALSE,0,0
+неблагоприятен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+антитеза,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+подхлъзване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безбожна,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+недемократичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+опасявам се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нетрудоспособен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неустрашимост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+пищен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+подвеждащ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+раздразнителност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отсрочване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+фиктивен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+фарисей,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+безплътен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+генерализиран неконвулсивен припадък,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+съответстващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+въртящ се,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+стар,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0.75
+съучастник,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+разглезен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+забавен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+поразявам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+огорчавам,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+министър,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+карпалентунел,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+фаталистки,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+тежко положение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отслабване,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+хипоактивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+жертва,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+небоядисан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+разчорлен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+бащинство,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+неграматически,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+млад,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+китност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+македонец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+инвалидизъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+разпечатан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+елегантност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+свирепост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+родина,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+уравновесеност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+хепатит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+благ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+непорочен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+проклет,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+укорим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+непретенциозен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+народност,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+неслучаен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+доста,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+търговски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+превъзнасям,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+кротост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+естетичен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+правилност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+крушение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нереализуем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+имигрирам,V,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+повсеместност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лъжовен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+артериит на Такаясу,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+коварен,A,FALSE,,negative,TRUE,FALSE,FALSE,0.25,0.75
+биполярно афективно разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+прост,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+нашенец,N,FALSE,race_ethnicity,positive,FALSE,FALSE,FALSE,0,0
+популярност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+технически нокаут,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+самосъжаление,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+граждански отряд,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+зловещ,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+контактен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+стегнат,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+майка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+фиксиран фагоцит,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безперспективен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+самонадеян,A,FALSE,,negative,TRUE,FALSE,FALSE,0.75,0
+авгиеви обори,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ламблиаза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хипобеталипопротеинемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+подигравам се,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+респект,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+неуместност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+синергично,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хрисимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тендинит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+отчетлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+отрепка,N,FALSE,appearance,,TRUE,TRUE,FALSE,0,0
+секси,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+какофоничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+трезвен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+умиротворителен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+ненаучно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+възпитан,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+приятелка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+незаинтересованост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+игривост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+покрит с рани,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нодозен периартериит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+способен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+едновалентен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нажежен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+съчувствие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+измамлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+непубликуем,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+ненавременен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+благочестие,N,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+немаркиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+благочестив,A,TRUE,religion,positive,FALSE,FALSE,FALSE,0.625,0
+плевродиния,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+херцогски,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+оживено,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+менингит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+епилептичен гърч,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+въшки,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неблагодатен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+нисшестоящ,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+алголания,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+закрит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+златен стандарт,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+католик,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+погрешност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+алгидност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+натравяне с паракват,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+кератодерма бленорагика,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+обобщен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+комплиментирам,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+печално известен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+обратен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+нечестно,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+очуждаващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ядосаност,N,FALSE,,,FALSE,FALSE,FALSE,0,1
+богохулнически,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+просташки,A,FALSE,,negative,TRUE,TRUE,FALSE,0.25,0.625
+горделив,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+ефирен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+некомпресируем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нечуващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разсърдвам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подиграя,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+депигментация,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+желан,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+поличбен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.375
+дивашки,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+нечистоплътен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+бактериологична война,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+резервиран,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+хлабавост,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+високо,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+силен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.125,0.875
+бедняшки,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+съчувствен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.125,0.625
+мъдро,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+лош,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+конгениален,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+неблагозвучен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+харесвам ,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+американец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+надзъртане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+користолюбив,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неподкупен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+мимически,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+искан,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неприсъстващ,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разпуснатост,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+вял,A,FALSE,,negative,FALSE,FALSE,FALSE,0.25,0.625
+анаероб,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+добри обноски,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+потвърдим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ръководно решение на съдия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+елегантно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+вълнист,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+завист,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неприличен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+романтизъм,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+благоприятен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+възраст,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+нечестие,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+пълен,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0.875,0
+достопочтеност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+злоупотребяване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+болест на Шпилмайер-Фогт,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+опърничав,A,FALSE,,negative,TRUE,FALSE,FALSE,0.25,0.75
+нечестив,A,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0.75
+захарна болест,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неблагозвучие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нараняващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+боя се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+грабвам,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+измамнически,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+батко,N,FALSE,gender,positive,FALSE,FALSE,TRUE,0,0
+прилежен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+подозрение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изящество,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+вяла парализа,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+духовитост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+неумолим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+буен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+грък,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+миопатия,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.75
+неимоверен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+бременност,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+бронхитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неплавателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+целомъдрен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+разумно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+санитаризация,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+явен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+значим,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+асимилиращ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+покварен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+национален,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+халюцинация,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+безразличен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+изнервящ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хипертрофна кардиомиопатия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+свободна жена,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несъстоятелен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+будистка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+трогателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+строг,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+ерготизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+непреметен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+несъбираем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+як,A,FALSE,,positive,FALSE,FALSE,TRUE,0,0
+несъответствие,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+стилно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+македонка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+чуждоземец,N,FALSE,race_ethnicity,negative,FALSE,FALSE,FALSE,0,0
+затвореност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+луд,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+лошотия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+Синдром на Титце,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+оригиналност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+оптимистичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+гладен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+изчерпателен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+фея,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+аматьор,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+женски,A,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+негранулиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+удовлетворен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+"човек, който се присъединява към група",N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+съчувстващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+прекомерен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неинвазивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неразумност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+безнадежден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+домакин,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+поверителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+отстраним,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+мръщене,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невеж,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+немота,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+плачлив,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+прокълнат,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+неуправляем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+стрелкам се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нецивилизован,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нацист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+дефектен,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+смутен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+горчив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+морален,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.125
+агонизиращ,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+всеобхватност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+матов,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+астматичен статус,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+лукавство,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+антибактериален,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+прашасал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+покоряващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+публикуем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хаджийка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+нечестен,A,FALSE,,negative,TRUE,FALSE,FALSE,0.25,0.75
+телосложение,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+непризнат,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+грубиянски,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неординарен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+младолик,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+велик,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+дистимия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+достижим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+Откровение на свети Йоан Богослов,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безхарактерност,N,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+аутизъм,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+неудачност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разгулен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+незаинтересуван,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нечувствителен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.75
+тщеславен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+безпристрастно разглеждане на дело,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непобедим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+недодялан,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+надсмивам се,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+фин,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+богохулен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+малка операция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+патриарх,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+изтощителност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+необременен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+стон,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+генерализиран неконвулсивен гърч,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непроницаем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отмъстителен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+чудо,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+шовинист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+гръмовен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+загниване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+болка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недостатъчност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+страдащ от алгофобия,A,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+учител,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+въздържан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вдовица,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+осъществим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+педераст,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+правоспособен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+недохранен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+унищожен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+преинвазивен рак,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+метрорагия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+осаждя,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мизерен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+непроменливост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+частна фондация,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непонятен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+небелязан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подпухнал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+уклончив,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+закачлив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+рафиниран,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+внушителност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+танцувален,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+чужд,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+завистник,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+несъпричастен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+продаван,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+несъщественост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+благоуханен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+застрашителен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+ценен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+шпионин,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+непоколебим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неизпратен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+паразитираща пчела,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хуманитарен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пролапс на митралната клапа,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+обезопасеност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+чорлав,A,TRUE,appearance,negative,FALSE,FALSE,FALSE,0,0.625
+неерозирал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+кератозис пиларис,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+заразен агент,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+орхит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+пиърсинг,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+лекотоварен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вирусна хеморагична септицемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0.25,0.625
+непрощаващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+знамение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+получаем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отблъсна,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+свъсен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неточност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+презрителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+страдащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+заслуженото,N,FALSE,,,FALSE,FALSE,FALSE,0.778,0.222
+репродуцируемо,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кръвна болест,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+недохраненост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+глутенова ентеропатия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+страдам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+травматичен стрес,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+менингизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+вяра,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+спретнат,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+успешен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хранител,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+дълбоко,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+безразсъден,A,FALSE,,negative,TRUE,FALSE,FALSE,0.125,0.75
+навредя,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+турчин,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+влюбен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+непокаял се,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+сангвистичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+горделивост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+воня,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+жегав,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+лошо гърло,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+глухота,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+безгрешен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.25
+безнадеждно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+болест на Лафора,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+кардиогенен шок,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тиреоидит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+развинтен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невъзпрепятстван,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неизвестен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+девойка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+управляем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+бездомна котка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+схизматик,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+припадане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+негодуващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+твърдоглав,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+заместителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+очиствам,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+директорка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+благославям,V,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+стиснат,A,FALSE,,negative,FALSE,FALSE,TRUE,0,0
+възпалително чревно заболяване,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+тормоз,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+забранен,A,FALSE,,,FALSE,FALSE,FALSE,0.333,0.667
+неопръстенен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+заплетено,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+лют,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+твърде,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+идиличен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+безработица,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безтелесен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ненарушим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неограничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ослепявам,V,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+мързелив,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+непълноценен,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+чистота,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+смелост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+християнин,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+злостен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+акрофобен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+скъперник,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+невъзприемчивост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+майчински,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+скокливост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+първостепенен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+тромавост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+зареждаем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+тенезъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+социалност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+гробовен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+синдром на Хурлер,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неиндустриализиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прекомерност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+комунист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+несензационен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+посттравматичен стрес,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+низост,N,FALSE,,negative,TRUE,FALSE,FALSE,0.125,0.75
+дъхав,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+акустичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непродаваем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+овариит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+невралгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+християнка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+глосалгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+плячкосвам,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+изтърбушен,A,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+увреждам,V,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0.75
+несъществен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мъдър,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+безстъблен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+сълзлив,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+дявол,N,FALSE,,,FALSE,FALSE,FALSE,0.444,0.556
+увреждащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ненавиждам,V,FALSE,,,TRUE,FALSE,FALSE,0,0.75
+неприет,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+възстановявам се,V,TRUE,disability,positive,FALSE,FALSE,FALSE,0,0
+модерен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нередовен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+обезпокоеност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+облагородителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+евентуален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+назидателен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+некръстен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+туркиня,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+неокосменост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нагло,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неудовлетворен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неконтролируем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+импровизиран,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+прелестен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+болен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вехт,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неанализиран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+толерантен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+неферментирал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+страничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пруриго,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+антипод,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+разранен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отвратя,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+белокож,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+райска градина,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ендартериит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+вожд,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+расист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+антимикробен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+привлекателност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+алвеоларна пиорея,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+захарен диабет,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+коригиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+епичен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+незапазен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+бронхиолит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+свръхделикатен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+кристален,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+тревожност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+азиатец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+деструктивност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+Еуфорбиа хелиоскопия,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+расов,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+неизсвирим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+арабка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+непредумишлен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отблъсквам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+позор,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+безсрамно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+аморалист,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+отблъскващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+тегло,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+отживял,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+басня,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нагреваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дрехи,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+мирен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+несиндикален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+оскверня,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+некооперативен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+загорял,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+отравяне с паратион,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+загрижен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+трудолюбив,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+безстрашност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+непогрешим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+хармоничен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+арменка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+несъразмерен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неизгодно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+незначително,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лесбийка,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+притеснение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+изневерявам,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+мегаломански,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+малоумен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+баснословен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+колпоцистит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+немагнитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+самодоволен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+синдром на карпалния канал,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+балетомания,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+отстъпчив,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+комфорт,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неопределен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+влошавам се,V,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+свободен мъж,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+предан,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+милосърдие,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+карпален синдром,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+благочестива,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+физическо наказание,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+космат,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+онихоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+всеотдаен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неприкосновен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+по-хубаво,Adv,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+смекчаващо обстоятелство,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+некултивируем,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+блестящ съм,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+възбуден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+истерически,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+гниене,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+татуировка,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+злобен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безцелен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+несъществуващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разпъване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неотменим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+възразяващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+кавалер,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+неврофиброматоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+измръзване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+доброкачествен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вулвит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+учтивост,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+радиационна защита,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+епиглотит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+модулиран,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+заселвам се,V,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+несгоден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+здраве,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+аменорея,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+униполярна депресия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+системна грешка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подлизурко,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+черен диамант,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+последен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тирозинемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.75
+заблуждаващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+розовост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+непредвидим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+жалък,A,FALSE,,negative,TRUE,FALSE,FALSE,0,1
+хал,N,FALSE,,,FALSE,FALSE,TRUE,0,0.625
+демократичен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.25
+злонамерен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+окаян,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+пъргавост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кожа,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+пропадане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+златна мина,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+риностеноза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+наедрял,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+неваксиниран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неизброим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+изтънчен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+копролалия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безсрамен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+живописност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+несъзнателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+сърдит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+оплешивял,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+отличен,A,FALSE,,,FALSE,FALSE,FALSE,1,0
+жизнен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+добросърдечен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+илюзорност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безсловесен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неестественост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+на ненамеса,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ненадминат,A,FALSE,,,FALSE,FALSE,FALSE,1,0
+лице,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+блясване,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+достойнство,N,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+право в целта,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+най-лош,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+неотразим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+неописателен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+непроследим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+солиден,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+лизльо,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+безверник,N,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+опозорявам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+неупотребен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+коронарна недостатъчност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+майсторски,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+безрадостен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+угрижен,A,FALSE,,,FALSE,FALSE,FALSE,0.333,0.667
+Хемофил,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+впечатляващо,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+невъзможност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нехигиеничност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+абсолютен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+противоглистно средство,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+завистливост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+класическа чума по свинете,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неналичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хубаво,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+невкиснал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нервен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+сизифов,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вековен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+затворен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+полупаразит,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+чувствителен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+проклинам,V,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+романтичност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+неизтекъл,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+втресен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+анатоксин,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+гранит,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+еретичка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+себелюбие,N,FALSE,,negative,FALSE,FALSE,FALSE,0.75,0
+съждителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+несимптоматичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+презрителност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+изискан,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.25
+самоуверен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+лъжепророк,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+незаконен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+невкиснат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безпътен,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+ливедо,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+полиомиелит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+азиатка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+антисептичен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+маточен кръвоизлив,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дистанциран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+натравяне с клин,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разкайващ се,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нелекуван,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+злобно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+повърхностност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+благотворителност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+заплаха,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+кераталгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+невинен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.125
+параноика,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+католически,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+ксенофобски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+прогресивен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безропотен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недохранвам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дистрофия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+ановулация,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+унищожителност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несъкрушимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+контрареволюционен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+благородство,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+свиня,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+безрезервен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+доходоносен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+леден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+цвят на кожата,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+величествен,A,FALSE,,positive,TRUE,FALSE,FALSE,0.875,0
+отмерен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безгрешност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+генерализиран неконвулсивен епилептичен гърч,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+воднянка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+измет,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+благопожелателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+афакия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+гинобаза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+арабин,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+гранив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+страдащ от депресия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+непрестореност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+вярващ,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+ненадарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пленителен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+предпочитан,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+апатичен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+увредимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+добронамереност,N,FALSE,,,FALSE,FALSE,FALSE,0.778,0.222
+непримиримост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дебелооко,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+необъркан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+смръщен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+едема,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+наплют от мухи,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пастьоризиране,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+светскост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+порицателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+див,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.75
+морбидност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+безпрекословен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+прилепчив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+диагонализируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+глоба,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+бабетина,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+карцином на черния дроб,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+зловонен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+незает,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+обичайност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+слаб,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0.875
+алгофобия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+театралничене,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+порок,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+усилност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+пречиствам,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+сърдечен срив,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мъж,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+елегантен,A,FALSE,appearance,positive,FALSE,FALSE,FALSE,0,0
+смъдене,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+феминист,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+бъбречна недостатъчност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+индуист,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+възторг,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+празник,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+язвителен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+бронхит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+поддържан,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+оплакващ се,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+флебит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неизправен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несвойствен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разумен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+терапия,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+оправдан,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+разсърден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+взаимоизключващ се,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несъответстващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+монументален,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+сръдла,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+милостивост,N,FALSE,,,FALSE,FALSE,FALSE,0.778,0.222
+оздравителна програма,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+генерален директор,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+користен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+запушване на червата,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+болест на Хансен,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неапетитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+имигрантка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+безсънен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отпуснатост,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+базисен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+възпалително заболяване,N,TRUE,disability,,FALSE,FALSE,FALSE,0.222,0.778
+външен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+деликатесен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+зловоние,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мюфтия,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+естествен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+шарлатански,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непокътнат,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+газогонен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+мъчителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+спленит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+урод,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+безвкусно,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неприемливост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+функционално нарушение,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+недисциплиниран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хиперадренализъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+религия,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+печатим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неодобряващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разтревоженост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+фактор на коагулация VIII,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+госпожа,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+безсъние,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безсмислено,Adv,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+за зла участ,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+повърхностен глосит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+ахалазия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+жуля,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+пустинник,N,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+възхищение,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+обстипация,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+бръчка,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+влюбеност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+циклооксигеназа-2,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+скитник,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+младоженец,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+конгестивен сърдечен срив,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недобър,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+кърмя,V,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+несъбран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непластичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+партеногенетичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мазник,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+възвеличавам,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+безмоторен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невидим,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+демократически,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+цветен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безпощадност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ароматен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+безвреден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+страхотно,Adv,FALSE,,positive,FALSE,FALSE,TRUE,0,0
+хипотироидизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+скръб,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+сплашване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+антихелминт,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+светъл,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+синдром на Къшинг,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+аполитичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+милосърден,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+отхвърлен,A,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+неизгоден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+асимилативен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+остеомиелит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+право на безпристрастно изслушване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неописан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+целекоксиб,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+престъпна небрежност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безрадостност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+отстъпчивост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несериозност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+пиелонефрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+природен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лекомислен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тарзит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+незначителен,A,FALSE,,,FALSE,FALSE,FALSE,0.333,0.667
+неизбежен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неоснователен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+незабраняващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недорасъл,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+сходен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+некадърен,A,FALSE,,,TRUE,FALSE,FALSE,0,0.75
+оток,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+профанен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+коагулационен фактор VIII,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подлост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+успокоен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+еднаквост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+лекомислие,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+неудовлетворителност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+свеж,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+имунна компетентност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мръсник,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+ужасяващо,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+асинергия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изровен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+недостатък,N,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+неприучен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отсрочка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+анизотропичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+целулит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+незагрубял,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+ревматизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+въвеждаща дрога,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+измерим,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+злотворен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+далечна огнева поддръжка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неприложим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+при затворени врати,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+паразитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+коса,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+унизяващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+стеноза на носните проходи,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+анероиден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неорганична енкопреза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+възхитителен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+недопроизводство,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разруха,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+боклук,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+непочтеност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+престъпен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+ленив,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+страхотен,A,FALSE,,positive,TRUE,FALSE,TRUE,0,0
+неемоционален,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+скаленус синдром,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+разреден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+арменец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+смешно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+намръщен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неблагословен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неудобен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+несъжаляващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+въодушевен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хеморагична септицемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0.25,0.625
+безвкусен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+обред,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+безупречен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+гнусота,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+епилептичен пристъп,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+инертен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+непознат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хладен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+аморфен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+нехристиянски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+маломощен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+най-добър,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+обич,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+горимост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+кротък,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+лош късмет,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нудизъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+саркастичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+добродетелност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+нокаут,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+чернило,N,FALSE,race_ethnicity,negative,TRUE,TRUE,FALSE,0,0
+нервиращ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+ритуал,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+умисленост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неразрешимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+жизнерадостнос,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+Синдром на Рамзи-Хънт,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неправилност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+смъдеж,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+синя лента,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+неофициален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+паянтов,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безполезно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+изхабен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+уникален,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+пневмонен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прокобен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.375
+харесам се,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нервиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+адресируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+афазичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+подправен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неистинен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+самоуважение,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+неконкурентен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+опечален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мощен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+синтезиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нещастно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пробождане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+страхливец,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0.75
+ужасен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.875
+нарколепсия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+детерминист,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+свят,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+в траур,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+свян,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+педал,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+ненаграден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+акула,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дързък,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+рационален,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+състрадание,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+честност,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+блуждаещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+убийствен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+метралгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+отрека,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+просветлен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+почит,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+многократно гласуване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+режещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+рехабилитация,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+много точен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+търпимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+утешител,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+добро настроение,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+тежест,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+приветливост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+зачитане,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+справедлив,A,FALSE,,positive,TRUE,FALSE,FALSE,0.75,0
+метотрексат,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+праведник,N,FALSE,religion,positive,TRUE,FALSE,FALSE,0,0
+навременен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+хидронефроза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+пневмоничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+недоходен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неравен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+слон,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+артерит на Такаясу,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+блондинка,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+естетичност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+малък припадък,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+стрелна се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ампутация,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+хаптоглобин,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+сакат,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+безоловен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+на високо ниво,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непрепоръчителност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+най-добре,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+неподреден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безамбициозен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+отрицателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+песимизъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+племе,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+гингивит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+гиардиаза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+унижавам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+изчистен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+турски,A,FALSE,race_ethnicity,negative,FALSE,FALSE,FALSE,0,0
+безкрак,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+наказуем,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+нос,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+Лаймска болест,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+обнадежден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+общителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+скатофагия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+противоречив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+свободен стих,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нервно изтощение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+другар,N,FALSE,,neutral,FALSE,FALSE,FALSE,0,0
+недоверчив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+храбър,A,FALSE,,positive,TRUE,FALSE,FALSE,0.625,0
+алтруист,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+мизантропски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+гангстер,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+неженствен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+обожаване,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+покорен,A,FALSE,,negative,FALSE,FALSE,FALSE,0.75,0
+романтичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+лидер,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+гениален,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+православен,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+мирянски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изричен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+недискретност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+наследствена афибриногенемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+опознаваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хигиенизиране,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неприроден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+грубо,Adv,FALSE,,negative,TRUE,FALSE,FALSE,0.625,0.125
+мъртъв,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+освобождавам,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+хуманистичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+мрачност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+чичко,N,FALSE,gender,neutral,FALSE,FALSE,TRUE,0,0
+ненормален,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+изключителен,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0.75
+предотвратим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+трошливост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+отчаян,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+повреден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+изклвам,V,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+нестероиден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хронична обструктивна белодробна болест,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+блудник,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+прокталгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+извънредно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+изтъркан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+откаченост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+опасен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+приложим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+идолопоклоннически,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+спиноцеребрално нарушение,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+въодушевяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+афродизия,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+мизерник,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+лицемерен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+покорим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хубаво време,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неблагодарност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+несвикнал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+всестранен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неопитомен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+инфлуенца,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+деградирал,A,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+нелюбопитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+благополучен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+капризен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+помагач,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+замърсен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+гигант,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+светия,N,FALSE,religion,positive,TRUE,FALSE,FALSE,0,0
+натравяне със сграбиче,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+проказа,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+асинхронен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+общирност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+приемлив,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+легионелоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+очерня,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+лудост,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+бъгав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неправилен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+съхранител,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+епидемичен паротит,N,TRUE,disability,,FALSE,FALSE,FALSE,0.25,0.625
+тръпки,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+трагедия,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+директор,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+приемен брат,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+учителка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+хитър,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+игриво,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+издръжлив,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+стерилен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+извратен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непристъпен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неквалифициран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отрицателно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+изпускане на урина,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ахромия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+разграничаващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+доблестен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неотклонимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+смирен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+глупав,A,FALSE,,negative,TRUE,FALSE,FALSE,0.625,0
+извънреден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+учтив,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+спарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+изчерпаем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+остарял,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0.75
+одобрение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пневмония,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+хваля,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+елементарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+обожател,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+хиперсомния,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+показен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+уязвим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+саможертва,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+охранен,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+храм,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+епидидимит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+замъглен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+скръндза,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+шериат,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+обезцветяване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неверник,N,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+регионален илеит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+анхедония,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нестандартен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+раса,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+веселост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+нисък,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+поправим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+недостъпност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+изкусно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+некритичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+противостоящ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непростим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мошенически,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+злополучност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нечувствителност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+Синдром на Тайце,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+стеснителен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+непроходим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+крах,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+оспорвам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неуравновесен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+показващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безобразен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неудобство,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+бомбастичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+отегчителен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+целеустремен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+луксозен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+несправедливо,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+изгоден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кардиален спазъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+абеталипопротеинемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+дърта брантия,N,FALSE,,,FALSE,FALSE,TRUE,0,0.625
+неврастения,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+противообществен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+психично заболяване,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+доловим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пародонтоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+героичен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+дисонанс,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вредност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+грозотия,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0.75
+некритически,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+джентълмен,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+архангел,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+карцином ин ситу,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+опортюнистична инфекция,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+бурен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+езичник,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+слуга,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+разнороден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+харесам,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+сдържан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+опетнен,A,FALSE,,negative,FALSE,FALSE,FALSE,0.125,0.625
+размъкнат,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+разпръснат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+натрапчив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+простатит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+разрошен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+рана,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+свръхкритичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+апетитен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+плавен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+коцкарски,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+виещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+заушки,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+осъзная се,V,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+уважаван,A,FALSE,,,FALSE,FALSE,FALSE,1,0
+непринуден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+уклончивост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+безгрижност,N,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+жалко,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+заушка,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+бледнота,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+спазъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+приятно възбуден,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+слепота,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+сляп,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0.75
+досаждащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+незалесен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неблагоприятност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+бледност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+незадоволителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+паранормален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+Хънт синдром,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+дисфория,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+несъвършен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+самобичуване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непредпазлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+безнравствен,A,FALSE,,negative,TRUE,FALSE,FALSE,0.125,0.75
+непрекосен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+слисващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+привлекателен,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0.875,0
+експанзивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+равномерен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+пародонтит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+надлъжно платно,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+срамя,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+нерегулиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+недескриптивен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+стенещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неревизиран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+развратник,N,FALSE,gender,negative,TRUE,FALSE,FALSE,0,0
+болка на растежа,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+болест на Хурлер,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неминуем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+светец,N,TRUE,religion,positive,FALSE,FALSE,FALSE,0,0
+непридирчив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нелегитимност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+посттравматично стресово разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+изсмукан от пръстите,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+натравяне с паратион,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+плачевно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+акне,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0.625
+стресиращ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изглед,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+ням,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подбудител на омраза,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+банкрут,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+аклиматизираност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+плавност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+дребнавост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хепатомегалия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+везикулит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+предразположен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вилнеещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+алергичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+гломерулонефрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+гражданска милиция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непромит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+колеблив,A,FALSE,,negative,TRUE,FALSE,FALSE,0.625,0
+изтезател,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+комбинатор,N,FALSE,,negative,FALSE,FALSE,TRUE,0,0
+готвач,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+неподкрепен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+уста,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+взаимно изключващ се,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+противокуршумна жилетка,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+за жалост,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+отвращение,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+завистлив,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+маниакална депресия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+нещастие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+осквернявам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+солен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+необикновен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неуважение,N,FALSE,,,FALSE,FALSE,FALSE,0,1
+неинституционализиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+двусмислен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+демонстративен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+депигментиране,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неопределим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+наследствена малкомозъчна атаксия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+дифтерия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+развличащо,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+добронамерен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+отсяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+удовлетворение,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+напълно глух,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+игрив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+Кортикум солани,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+въшливост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+окопнявам,V,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+безполезен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+обвинителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+преодолим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+клиничен психолог,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безнравственост,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+нещастен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+заядливец,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ерзац,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неодялан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+слабохарактерност,N,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+истерия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мечтателност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несъобразителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+миоклонична епилепсия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+грижовен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+почетен,A,FALSE,,,FALSE,FALSE,FALSE,1,0
+непривлекателен,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0.333,0.667
+нощен страх,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+възпаление,N,FALSE,,,FALSE,FALSE,FALSE,0.222,0.778
+протестант,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+патерналистичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+условен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ущърбен,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+несменяем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+астазия,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+гневен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+артериит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+логичен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+несигурност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+гаден,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.875
+лъжеучител,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+нетропическо спру,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+грешен превод,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+спазматичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+косталгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+хуманен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+промяна,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+дефиниран,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неотличим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неизменност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+Легионерска болест,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+скверен,A,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+женчуга,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+дядо,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+остроумничене,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+обезпокоителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+брюнет,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+окайнявам,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неконфликтен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вещина,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+парестезия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+синдром на внезапна детска смърт,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0.25
+здравословност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+укорителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+алчен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+етнос,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+мъжество,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+допустим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+най-лошото,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+порядъчност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+навяхване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+калпав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отрицателен стимул,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+привлекателно,Adv,FALSE,appearance,positive,FALSE,FALSE,FALSE,0,0
+коравосърдечен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+многообещаващ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+безстрастен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+непригоден за заетост,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+жалостив,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+здравея,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+господин,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+мъчител,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разумност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невнимателност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+болка в роговицата,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+плитък,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+равнодушен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+съотечественик,N,FALSE,race_ethnicity,positive,FALSE,FALSE,FALSE,0,0
+алтернативна енергия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+надежден,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+риск,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+подиграя се,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+балканджия,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+нерешителен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+автократ,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+неоживен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+радостност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+деканова киселина,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+примирим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+чудотворен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+чудовище,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+безжалостност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мръсен,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0.75
+благодеятелност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+руменина,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+възвисяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непочтен,A,FALSE,,negative,FALSE,FALSE,FALSE,0.625,0.125
+уринарна инконтиненция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неморално,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+илеус,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+крада,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+подпорен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+лимфоаденом,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ридаещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+сигурност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+съобщник,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+лекарка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+по-зле,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+орнитин,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+партизански,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неблагонадежден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разстройство,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+неразвален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+позитивен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+болка в тестиса,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+заболяване,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+цивилизован,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+стопанин,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+монетен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вятърничавост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+отвратен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+възхвалявам,V,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+моля се,V,TRUE,religion,positive,FALSE,FALSE,FALSE,0,0
+краен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+недъгав,A,TRUE,disability,negative,FALSE,TRUE,FALSE,0,0
+нецелесъобразен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+метастатичен рак на черния дроб,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+изненадващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+органичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+човек със зрителни увреждания,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+насмешка,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+скърбящ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+темпераментен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+коравосърдечие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+европеец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+неизцапан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+презареждащ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неизмерим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+нереалност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+бездушие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+честно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+мода,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+дословен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+невпечатлителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+националист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+неискан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+догматичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ликвидирам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+бездушен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+фоликулярна кератоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+китено,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+свободен човек,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+чревна непроходимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ювенилна амавротична идиотия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невротичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неелегантен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+кръвосмразяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+нечовечност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+далавераджия,N,FALSE,,negative,TRUE,FALSE,TRUE,0,0
+Болест на Крон,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+девалвиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+антихемофилен глобулин,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+имунокомпрометиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+контролиращ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+изтребвам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+оскърбителност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+енуреза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безсилие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недомашен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непряко,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+жар,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дифтерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+законност,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+прогниване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+верен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.875,0
+безводен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+диуреза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хидроморфон,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+крава,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+опаковъчна хартия за подаръци,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пропилян,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+съдещ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безмилостен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.625
+безобиден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+господар,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+твърдоглави,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+маточна болка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+множествен неврит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+слънчево време,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+болезненост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+нисш,A,FALSE,,,FALSE,FALSE,FALSE,0,1
+представителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+сребролюбив,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+първокласен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+емоционален,A,FALSE,,neutral,FALSE,FALSE,FALSE,0.625,0
+неспособност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+кльощав,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+вкаменен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+параноя,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+провокиране към наказуемо деяние,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+облекчен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ненатрапчив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+антисемитски,A,TRUE,race_ethnicity,,FALSE,FALSE,FALSE,0,0.75
+висш,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+отблъскващо,Adv,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+проблемност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+умрял,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+напрегнат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+обременителност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+свръхпредпазлив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+бездушност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+по-добър,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+незавиден,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неохотно приет,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+злонамереност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+красив,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0.625,0
+непреносим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+допадам,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+запалителност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+свръхвнимателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+недоволен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+свински,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+превъзходен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+глух,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+проницателен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+сероводород,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+крив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нежелан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неточен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+музикална глухота,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+решителен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+превзет,A,FALSE,,negative,FALSE,FALSE,FALSE,0.875,0
+хетерогенен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лъскав,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0.625,0
+агент,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+нажежаем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непримесен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+бездомник,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+незвукоподражателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+далтонизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+непростителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+с благороднически произход,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+светски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+трапезно вино,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+необщителен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+демонизиране,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+амбициозен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+манипулатор,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+предвещание,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+надебелявам,V,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+идентифицируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неарбитрируем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+всестранност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+завладяване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+добросъвестен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+незаконороден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+сръчен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+илеит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+хидроморфон хлорид,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+началник,N,FALSE,,neutral,FALSE,FALSE,FALSE,0,0
+с възхищение,Adv,FALSE,,,FALSE,FALSE,FALSE,0.875,0.125
+цвят,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+достъпност,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+пиле Киев,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непотърсен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+презиране,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+честен,A,FALSE,,positive,TRUE,FALSE,FALSE,0.75,0
+рехабилитационна програма,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пансинузит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+спасен,A,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+инконтиненция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+малодушен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+срамежлив,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+защита,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невнимателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+розовина,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+обзет от носталгия,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+скандален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+очи,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+жив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+вина,N,FALSE,,negative,FALSE,FALSE,FALSE,0.125,0.625
+нередност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+напикаване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+уверен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+свиваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кроткост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мътен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+несправедлива присъда,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+красавица,N,FALSE,appearance,positive,TRUE,FALSE,FALSE,0,0
+неразрешим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изгодност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+под микроскоп,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+второстепенен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ахлорхидрия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+матриархат,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+пост,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+греховен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+страдащ от трискадейкафобия,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+бездеен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+гъркиня,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+неметален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ректална болка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+недобросъседски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+астеричен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безпогрешност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непосредственост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+грандиозен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+отрицателност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+щастлив,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+лаская,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+недохраня,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+имигрант,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+дейтеранопия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безцелност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+разсъдителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+заболявам,V,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+неукрасен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+радионепрозрачен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+бездарен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+неподправен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+подъл,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+съвест,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+непослушен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.625
+разсъдък,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+смел,A,FALSE,,positive,TRUE,FALSE,FALSE,0.125,0.75
+беззаконие,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+пострадал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+изключително,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+искреност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+направляем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+илюзорен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+производителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+чернодробна кома,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+жесток,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.625
+приятно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+умствено затруднен,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+с лошо,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мутизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+ревнив,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+кървене от матката,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+величествено,Adv,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+оскъден,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+разграничим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+страдалец,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+добре поддържан,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+диктатор,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+албинизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+протестантка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+атрактивен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безкористен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+съществуващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хранителност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+развратен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+отхвърля,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+модност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+присмивам се,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+адски,A,FALSE,religion,negative,FALSE,FALSE,FALSE,0.125,0.625
+вреден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+негативност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+скъпернически,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+благоразумен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+лъчезарен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+поразителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+незабележителност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+нееднакъв,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+оскотея,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+по-добре,Adv,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+готически,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неакцентиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+развлекателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+синагога,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+несъдействащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+сестра,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+ализариново жълто,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+небивалица,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неугасим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+обстоен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+възбуждащ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+хередитарна церебеларна атаксия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+подземен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хиперкортицизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+вцепенен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+набожен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ненавикнал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отнасям се зле,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+булимичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+чехъл без пета,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+невнимателно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+подагрозен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неестествен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неграмотен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+човечен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+животозастрашаващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+повлекана,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безжизнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+карцинома ин ситу,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+сладък,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+висок,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+самотен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мералгия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+менте,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+незамърсяващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+Фьодор Михайлович Достоевски,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+наследствена церебеларна атаксия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+недостатъчен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+годен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дисфемистичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+терорист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+приличен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дрипльо,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+благодеяние,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+незавършен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+спираем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невинност,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+неутешим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мекушав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нетрадиционен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+съкратим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+престъпник,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+некротизиращ хеморагичен ентерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+правдоподобност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отнеса се зле,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+благоразумие,N,FALSE,,positive,FALSE,FALSE,FALSE,0.875,0
+грубост,N,FALSE,,,FALSE,FALSE,FALSE,0.556,0.444
+неуловим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+образец,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+изповядвам,V,TRUE,religion,positive,FALSE,FALSE,FALSE,0,0
+угоднически,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пазител,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+паническо разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+дисидентски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+омекнал,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+безпроблемност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+привилегирован,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+напакостя,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+деспот,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+разминаване,N,FALSE,,,FALSE,FALSE,FALSE,0.333,0.667
+безчувственост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+шампион,N,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+неморален,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+угоен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+патриот,N,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+приятен,A,FALSE,,positive,FALSE,FALSE,FALSE,1,0
+приятел,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+възприемчивост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+обеззаразяване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+огорча,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неоплакан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+амфодонтоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+спермициден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+потиснатост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+предателски,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отличен удар,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+аналгезия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+изолиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+чернокож,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+недеформиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нерешен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+рак на черния дроб,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+църква,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+парализа,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+от добро семейство,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ужасно,Adv,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+храброст,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+шокиращ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+препъване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безсимптомен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+недипломатичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+колит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+принцип на Паули,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+разтягане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+психопатологичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безглав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+порочен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+уретерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неморалност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+необразован,A,FALSE,,negative,TRUE,FALSE,FALSE,0.25,0.75
+с треска,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вторичен рак на черния дроб,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+анорексия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+угодник,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+удовлетворителност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+секретар,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+неудържимост,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+функционално разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+чест,N,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+пенсиониран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безсилен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+развлекателно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+дезинфекция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+негативизъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+необективен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+запазване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+развълнуван,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+стенание,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+апатогенен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неизпълнителност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+гранясал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неадекватен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вкусен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+маниакално разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+мома,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+депресиран,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+еритробластоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+образцов,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+низък,A,FALSE,,,TRUE,FALSE,FALSE,0,1
+безработен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+първична дисменорея,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+злоупотреба,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пич,N,FALSE,gender,positive,FALSE,FALSE,TRUE,0,0
+смисленост,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+необещан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отпуснат,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.625
+разхлабителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+откровен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.25
+неподдържан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+умислен,A,FALSE,,,FALSE,FALSE,FALSE,0.333,0.667
+варварин,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+дисменорея,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неизискан,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+зацапан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+великан,N,FALSE,appearance,positive,FALSE,FALSE,FALSE,0,0
+непрокиснат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+противоположен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+страхопочитание,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+добросъвестност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+безформен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+въвеждащ наркотик,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+привързан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+злоупотребление,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непрокиснал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+леснодостъпен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неритмичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+съмнение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+убиец,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+ранна малкомозъчна атаксия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+обаятелност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+постит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+дивертикулит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+китен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+незадоволен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+дуоденална язва,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неподвижен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+въображаем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+недостоен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+демон,N,FALSE,,,FALSE,FALSE,FALSE,0.444,0.556
+некултурен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+чуруликащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+незапечатан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+баналност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+подигравам,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+красиво,Adv,FALSE,appearance,positive,FALSE,FALSE,FALSE,0,0
+деликатност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+телесно наказание,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непастьоризиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пъдпъдъче месо,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+тъждественост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+безразсъдство,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+милиция,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+надеждност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+несъвместимост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неспециализиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+катарална треска,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+косвено,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+необуздан,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0.625
+тревожен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+реден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+цианогенен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+разрушен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нереалистичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+гаргоилизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+плуралист,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+почистваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+радикал,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+старея,V,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+несправедлив,A,FALSE,,negative,FALSE,FALSE,FALSE,0.25,0.625
+неуверен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дефицит на цинк,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+асоцируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+емигрирам,V,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+побожен,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+незаслужен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+милионер,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+изгаряне,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+непокварен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+поп,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+пъпчо,N,FALSE,appearance,negative,FALSE,FALSE,TRUE,0,0
+праведен,A,FALSE,religion,positive,TRUE,FALSE,FALSE,0.625,0
+протестантски,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+оживен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+сладостен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.25
+прав,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+тромбастения,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+Апокалипсис,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ацидемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+цялостен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+извънсиндикален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+простодушен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+простота,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+изключвам,V,TRUE,,negative,FALSE,FALSE,FALSE,0,0
+изплъзващ се,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+сладко,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+гротескност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+доверен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+свещен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+уравновесен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.125,0.75
+сприхав,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+бронхиален спазъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+прецизен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+проницаем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нараняване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+осаждям,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+присмея се,V,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+Откровение на Йоан,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+регионален ентерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+шизоиден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+абуличен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+етически,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+радиозащита,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+заразителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+чудат,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+раждам,V,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+нестабилност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+циганка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+брюнетка,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+херпесна екзема,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0
+накърнимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+зле възпитан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+енкопреза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+тетания,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+възпалителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+спокоен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0.75
+презрение,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+еризипел,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+смръщване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+състрадателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+нерентабилен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+невъзприемчив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+възлов,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+плодовит,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+гнусен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+непретенциозност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+класа,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+груба шега,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+незлобен,A,FALSE,,,FALSE,FALSE,FALSE,0.222,0.778
+добродушие,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0.125
+объркан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+намръщване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+циганин,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+предател,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+шеф,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+конформистки,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+леещ се,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+съпреживяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+идиот,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+незабележим,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+неучтив,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+агорафобен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+препотвърждаване,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+пагубен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изключен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безспорен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+несръчен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неандерталски,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+олигоспермия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неоценяващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+упорство,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+различаващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невъзпитан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+пастор,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+егоизъм,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+задоволителност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+нравствен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.125
+анестетизиран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+пренебрежителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+висока класа,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+похотлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+художествен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+възпитание,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+язвен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вайкане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непипнат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ненормалност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+специален,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+безмилостност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+разбойник,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+съпруга,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+страшно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+божествен,A,FALSE,religion,positive,FALSE,FALSE,FALSE,0.875,0
+дружелюбие,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+забележителен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неестествено,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мъжествен,A,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+Синдром на Райтер,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+гастрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+стадност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+физиотерапевт,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+болезнена менструация,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неземен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+апатико-абуличен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+миловиден,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+свещеник,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+муден,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+одобрявам,V,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+атоксичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+болка при уриниране,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+добра воля,N,FALSE,,,FALSE,FALSE,FALSE,0.778,0.222
+регулируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невентилиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отбран,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+хипогликемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+агамичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+оспоря,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+психичен,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+нееднороден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неизменяемост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+безшевен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+улична котка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+всесилен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+неразумен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+каприлова киселина,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нерестриктивно изречение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безпулсова болест,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+садист,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+надарен,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+мания,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+брутализирам се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+достоен,A,FALSE,,,FALSE,FALSE,FALSE,1,0
+неагресивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+почтен,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+непоискан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неотзивчив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+глосодиния,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+жежък,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+на високо равнище,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+случаен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+спазъм на пикочния мехур,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неприятно усещане,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+изправящ косата,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неспособен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+безпокоен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+латентен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+софистика,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+слънцегледна млечка,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+поробвам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+жалко подобие,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+очарователност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+увреждане,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0.75
+несексапилен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+новаторски,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кошмарен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+благотворен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+цивилизованост,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+неизбухнал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+мъдрост,N,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+зле,Adv,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+самопредизвикан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лайняр,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+продаваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+Фитофтора инфестанс,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неизчислим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+грабя,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+зло,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0.875
+защитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+подкрепа,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+аргументируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неразгадан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хиперемезис,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+компулсивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+незамислен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+деликатно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+отравяне с клин,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хипопротеинемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+интелигентен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+озена,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+изтърканост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+изчерпан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+величие,N,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+злокобен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+запалителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+контролируем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+глухоням,A,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+ожуля,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+недействащ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+опърпаност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дупедавец,N,FALSE,,,TRUE,TRUE,TRUE,0.625,0
+бравурност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+статичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+позорен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+сатанински,A,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+болестотворен агент,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+егоист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+нежно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+сърдечен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0.25
+коравосърдечност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+немощен,A,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+реализиран,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+опасност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безсъвестен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+друслив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+виновен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.875
+шикозност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безумие,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+аутсайдер,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+веселие,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непавиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+имунизиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+женственост,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+глух като пън,A,FALSE,,,FALSE,FALSE,TRUE,0,0.625
+юначност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+народ,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+актуален,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+запуснат,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+достъпен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кератит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+карминативен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+осиновяем,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+горчиво,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+неподобаващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неправдоподобен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+затлъстявам,V,TRUE,appearance,negative,FALSE,FALSE,FALSE,0,0
+умилителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+подсмиване,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+несъстрадателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+рай,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безпроблемен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изобретателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неатрактивен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неуловимост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неподозиращ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+предубеден,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+инвалидна количка,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+съсипан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+плачливост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вражески,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+срамен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.625
+измамен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+заразен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безстрашен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+идеален,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+баптистка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+подут,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+усещащ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+мекосърдечен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+местен,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+негланциран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неприключен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+чудесен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+аморализъм,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+безболезнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+селянин,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+разкошен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+криоанестезия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+необходим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+погрознея,V,TRUE,appearance,negative,FALSE,FALSE,FALSE,0,0
+неустоим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+плешив,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+антихемофилен фактор,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несломимост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+аноксия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мъжкарчо,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+добре изглеждащ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+противен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.875
+циничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+бронхоспазъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+йейтсиански,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+висококачественост,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+завоюване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+яростен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+некомуникативен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+пагубност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+анаеробен организъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+охтичав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безстрашие,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+лимфаденит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+непроменимост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+облекло,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+безумно,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+светица,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+радостен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+душегубец,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+благодушен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+бляскав,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+сгорещен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+изготвен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+висококачествен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+на късо,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хистеричен,A,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+остарялост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неистински,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+зависим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+лукавост,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+синдром на остра дихателна недостатъчност,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+губещ,A,FALSE,,negative,FALSE,FALSE,TRUE,0,0
+възпрепятстван заради мъгла,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+подритвам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+жестокост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+костохондрит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+оофорит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+неплатежоспособен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+потисничеството,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+риж,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+нахален,A,FALSE,,negative,FALSE,FALSE,FALSE,0.75,0.125
+истеричен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неоторизиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+мерзост,N,FALSE,religion,negative,TRUE,FALSE,FALSE,0,0
+позорно,Adv,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+безкритичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+сигурен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хистиоцитоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+лечение,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+бездънен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неприветлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+смърдящ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+добродушен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+мангал,N,FALSE,race_ethnicity,negative,TRUE,TRUE,FALSE,0,0
+еритродерма,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+наплашване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неизвестност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неангажиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+измамно,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+несмесен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+дисурия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+срамно,Adv,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+жена,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+почернял,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+триумфатор,N,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+подлец,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+скандалджийка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+отекъл,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+милост,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неразбираем,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неразположение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+блуден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+иновационен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непратен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+биоразградим,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+смътен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+подло,Adv,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+необратим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+безкостен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+зрял,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+разстройство с дефицит на вниманието и хиперактивност,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0.125
+шизофреник,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непозволяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+месо от пъдпъдък,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+сатана,N,FALSE,,,FALSE,FALSE,FALSE,0.444,0.556
+значителен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+авирулентен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+допадна,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безкомпромисен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+лекар,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+хипогамаглобулинемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+мацка,N,FALSE,gender,negative,TRUE,FALSE,TRUE,0,0
+непотопим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+еднороден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неконкретност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неразтребен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+уместен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+враснал косъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+протеза,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+първенец,N,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+сталинист,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+хард,A,FALSE,,,FALSE,FALSE,TRUE,0.625,0.125
+изкачваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+неистинност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+домошар,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+любвеобилен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+неприспадаем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+с хубаво,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+крадец,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+нежелание,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+несъблазнителен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+имунодефицитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+адмирация,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+глупаво,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+мъглив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+непараметричен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хередитарна малкомозъчна атаксия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+роб,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неяснота,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+влошен,A,FALSE,,,FALSE,FALSE,FALSE,0.556,0.444
+безпощаден,A,FALSE,,,TRUE,FALSE,FALSE,0,0.625
+ром,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+амебна дизентерия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+върхов,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+крехкост,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+шизофрения,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+свещеничка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+Откровение Йоаново,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+секретарка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+язва,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+нетематичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неблагоприличен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+несмазана,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безсърдечност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+етнически,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+ацентричен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+преднина,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+алалия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+угризение,N,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+благосклонност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+принцип на забрана,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непоправимост,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+болест на кръвта,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+некротизиращ ентерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+непотвърден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+измислица,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+непреклонен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+апомиктичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+великолепен,A,FALSE,,positive,TRUE,FALSE,FALSE,0.875,0
+туберкулозен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безпрепятствен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+аутист,N,TRUE,disability,neutral,FALSE,FALSE,FALSE,0,0
+косми,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+вежливост,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+неизвиним,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изкуствено,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+на живот и смърт,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+негоден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+посредствен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+ровене,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+високомерен,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+оплакване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+клаустрофобичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+асоциален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+заядливост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+атеист,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+жизнерадостен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+себичен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+раздърпан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+лошота,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+антисоциален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+нервно разстройство,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+неболестотворен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+бяло петно,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+лунна слепота,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+ранен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+миопичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+нищожен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+недъг,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+дразнещ,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+непривичен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+популист,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+прочувствен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невъзнаграден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+цвъртящ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неопорочен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+отслабвам,V,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+призван,A,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+припадък,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+прислужник,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+малдон,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+простовато,Adv,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+справедливо,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+рус,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+светлокож,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+неономатопеичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прям,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+ентусиазъм,N,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+неизметен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+млечнобял,A,FALSE,appearance,positive,FALSE,FALSE,FALSE,0,0
+нелюбезно,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+лесен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+неизлечимост,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+безшумен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+магнитен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+звънък,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нехармоничен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+дискомфорт,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+финес,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+агамаглобулинемия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+нефиксиран,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+онеправдая,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+иновативен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+външен вид,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+нещавен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+вулгарен,A,FALSE,,negative,TRUE,FALSE,FALSE,0.25,0.75
+изправителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+незвучен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+колит на Крон,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+справедлива,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+креативен,A,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+онеправдан,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+немощност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+изпитващ фобия,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+решение по съкратената процедура,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+схватлив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+реабилитиращ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хитрост,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+скрофулозен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+Болест на Къшинг,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+консервиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неактивен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+антифеминист,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прахосан,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+реализуем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+нефункционален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+лептоспироза при кучета,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+непредприемчив,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+реалист,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неубеден,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+добър дух,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+чужденец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+атаксия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+мърла,N,FALSE,,,TRUE,TRUE,FALSE,0,0.75
+неензимен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+отцепник,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+теорема,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+за съжаление,Adv,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+синдром на внезапна смърт при новородено,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0.25
+реабилитиран,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+тривиалност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+младеж,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+страхувам се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прославям,V,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+раздразнителен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+разпокъсан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+любя,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отвратителен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.875
+разрушителност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+помакиня,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+прасе,N,FALSE,appearance,negative,TRUE,TRUE,FALSE,0,0
+прозорлив,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+домосед,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ендоцервицит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+обаяние,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непроучен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+полов,A,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+африканец,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+болест на фон Реклингхаузен,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+пелагра,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+джудже,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+разстройство с дефицит на вниманието,N,TRUE,disability,,FALSE,FALSE,FALSE,0.625,0.125
+ловко,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+непараметричен статистически факт,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неоткрит,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+повърхностен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+хемоглобинопатия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+изкусен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ухаен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+психопатичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+малтретирам,V,FALSE,,,TRUE,FALSE,FALSE,0,0.75
+подмокряне,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+замразен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+дебел,A,TRUE,appearance,negative,FALSE,FALSE,FALSE,0,0
+кокалче,N,FALSE,appearance,negative,FALSE,FALSE,TRUE,0,0
+апраксия,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+обезчувствя,V,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+духовна,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+неделикатен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+готин,A,FALSE,,positive,FALSE,FALSE,TRUE,0,0
+цяла кръв,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+отявлен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+грозота,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+легендарен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+перикардит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+полезност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+суетен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+гротеска,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+отговорен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+слънчева млечка,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+пребледнялост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+пресен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+кинанестезия,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+необезпокоен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+легален,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+своенравен,A,FALSE,,negative,TRUE,FALSE,FALSE,0.125,0.875
+брат,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+лакей,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+вироглав,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+съзнателен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+посттравматичен синдром,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+леснота,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+синдром на остър респираторен дистрес,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+различаващ се,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+флегматичен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+дивак,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+неработещ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+Акация камбегеи,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+сучонг,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+естествена добродетел,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+спечелен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неосвободен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неприспособим,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+гръмък,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+малцинствен,A,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+милостив,A,FALSE,,positive,TRUE,FALSE,FALSE,0.875,0
+безчестие,N,FALSE,,negative,FALSE,FALSE,FALSE,0.125,0.75
+синтетичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+гладникав,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+католичка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+осъзнат,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+африканка,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+готвачка,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+захлас,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+непреодолим,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+жлъчен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+кардиоспазъм,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+духовит,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+рахит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+диференцируем,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+крадливост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+тежина,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+неубедителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+педантичен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+амебиаза,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+благонадеждност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+подмолен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+множествена дизостоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+костна фиброзна дисплазия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+неконвертируемост,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+дебил,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+двуличен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+артистичен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+безпокойство,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+имам,N,TRUE,religion,neutral,FALSE,FALSE,TRUE,0,0.75
+нащърбеност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+извисяващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+благоприличен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+безчестен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+износен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+фалшив,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+изрод,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+монах,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+небезизвестен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+нескопосен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+доброта,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0.125
+неограничаван,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+осквернен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+петно,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+фагоцитен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отвратително,Adv,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+ендартерит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+цигански,A,FALSE,race_ethnicity,negative,TRUE,TRUE,FALSE,0,0
+разочароващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+петня,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+беззащитен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+лъжлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+искрен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.75,0
+звукоизолиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+маловажен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+негодност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+незареден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+бруталност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+необорим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+провокатор,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+въпрос на чест,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+доносник,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+незатъмнен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+аспираторна пневмония,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.75
+инат,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0.625
+гузност,N,FALSE,,,FALSE,FALSE,FALSE,0.375,0.625
+бронирана жилетка,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+кретенизъм,N,TRUE,disability,,FALSE,FALSE,FALSE,0.125,0.625
+образован,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+пъпка,N,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0
+учудващ,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+лъжец,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+супер,Adv,FALSE,,positive,FALSE,FALSE,TRUE,0,0
+безформеност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+изкусност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+изменник,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+карбонадо,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+ожулен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+стойностен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+гранулом,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+фиброзна дисплазия на кост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+хедонизъм,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+квашиоркор,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+нужен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+идол,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+обсебващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+разпиляност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+загуба на обонянието,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+доктринерски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+обожание,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+безкомпромисност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+стеноза на носните пътища,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прекрасен,A,FALSE,,positive,TRUE,FALSE,FALSE,0.75,0
+достоен за порицание,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+омаловажавам,V,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+всеотдайност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+повреден от буря,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+духовен,A,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+кретен,N,FALSE,,negative,TRUE,TRUE,FALSE,0,0
+компетентен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+имунокомпетентен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+вероломен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+вярност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.25
+ксеродерма,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+гигантскоклетъчен артериит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+злочест,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+дисхармония,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+обожаващо,Adv,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+клисав,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+кичест,A,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неетичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+Дикенсов,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непредсказуем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+казуистика,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+остроумен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+излъгвам,V,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+неизползван,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+доверителен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+елфически,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+безвкусица,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+неотменяем,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+осакатявам,V,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+недействителност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+мъгляв,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+аносмия,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+нервен срив,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+късметлийски,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+въодушевление,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+госпожица,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+изповедник,N,FALSE,religion,positive,FALSE,FALSE,FALSE,0,0
+нежелателен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+авгиев,A,FALSE,,,FALSE,FALSE,FALSE,0.222,0.778
+нелогичност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.75
+въшлив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+непресован,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+поривист,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+грешник,N,FALSE,religion,negative,FALSE,FALSE,FALSE,0,0
+късоглед,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+атеистка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+неадаптиран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+маточно кървене,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+умел,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+охкане,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+умен,A,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+навреждам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+лукав,A,FALSE,,negative,FALSE,FALSE,FALSE,0.625,0.25
+нереален,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+възпроизводимо,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+подходящ,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+помак,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+непоследователен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+оточен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+смрадлив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+амелодичен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+опасяващ се,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+паразит,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+щекотлив,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+малцинство,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+неосъществим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+безчувствен,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0.75
+неволя,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+побъркан,A,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+непреобразуваем,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+печалност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+идентичност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+мургав,A,FALSE,appearance,negative,FALSE,FALSE,FALSE,0,0
+тлъст,A,TRUE,appearance,negative,FALSE,FALSE,FALSE,0,0
+любов,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+невъзвратим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+без завещание,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+улцеративен колит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+искрено,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ловък,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+венечна болка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+неумишлен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+заядлив,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+дама,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+измъчвам се,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+мастоидит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+син,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+психоневротичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+морализъм,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+курва,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+мрачен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+незасегнат,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+регент,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+евреин,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+сръдливост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+дребен,A,TRUE,appearance,neutral,FALSE,FALSE,FALSE,0,0.75
+ксенофобски настроен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+предупредителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+натурализираност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+отчаяност,N,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+погрешен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+скъпота,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+бъбречна поликистоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+самоиндуциран,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+изгубен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+родилна болка,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+добро състояние,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+ядосан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+смекчен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+назъбеност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+прекрасно,Adv,FALSE,,positive,TRUE,FALSE,FALSE,0.625,0
+несдържан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+задълбочен,A,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+осъдителен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+нездрав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+блюдолизец,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+феминизъм,N,TRUE,gender,neutral,FALSE,FALSE,FALSE,0,0
+благодетелност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+незадължителен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+Достоевски,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+живописен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+спастичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+привличам,V,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+самоизмъчване,N,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+угризение на съвестта,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+изнемогвам,V,TRUE,disability,negative,FALSE,FALSE,FALSE,0,0
+терзание,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+буден,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+холеричен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+герой,N,FALSE,,positive,TRUE,FALSE,FALSE,0,0
+тетаничен гърч,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.875
+разкриващ,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+комично,Adv,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+вулгарно,Adv,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+нецензурен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+остър,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.875
+обидност,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+непрактичен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неверен,A,FALSE,,negative,FALSE,FALSE,FALSE,0.125,0.75
+перфектен,A,FALSE,,positive,FALSE,FALSE,FALSE,0.625,0
+начумерен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+индустриален,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+обезболяващо,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+неучтивост,N,FALSE,,,FALSE,FALSE,FALSE,0,1
+съдържателност,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0.125
+непочтителност,N,FALSE,,,FALSE,FALSE,FALSE,0,1
+престорено скромен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+очарование,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+неоспорим,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+трахеит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+плашлив,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+проблемен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+епикондилит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+непреднамерен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+еврейка,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+хубавея,V,TRUE,appearance,positive,FALSE,FALSE,FALSE,0,0
+благозвучен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+корени,N,TRUE,race_ethnicity,neutral,FALSE,FALSE,FALSE,0,0
+блудница,N,FALSE,gender,negative,TRUE,TRUE,FALSE,0,0
+фоторетинит,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
+умно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+хубавец,N,FALSE,appearance,positive,TRUE,FALSE,TRUE,0,0
+палав,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+майчински качества,N,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+високопарен,A,FALSE,,,FALSE,FALSE,FALSE,0.125,0.625
+непоробен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+свръхтревожност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+кръвотечение от матката,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+деутеранопия,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+проникновен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+будист,N,TRUE,religion,neutral,FALSE,FALSE,FALSE,0,0
+разбъркан,A,FALSE,,,FALSE,FALSE,FALSE,0,0.875
+самоокайване,N,FALSE,,,FALSE,FALSE,FALSE,0.125,0.75
+сизифовски,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+анормалност,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+славно,Adv,FALSE,,positive,FALSE,FALSE,FALSE,0,0
+главатар,N,FALSE,,negative,FALSE,FALSE,FALSE,0,0
+непокаян,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+находчивост,N,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+възпитаност,N,FALSE,,,FALSE,FALSE,FALSE,0.875,0
+гето,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+функционалност,N,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+лошо настроение,N,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+ожулвам,V,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+палач,N,FALSE,,negative,TRUE,FALSE,FALSE,0,0
+свръхнежен,A,FALSE,,,FALSE,FALSE,FALSE,0.25,0.625
+нескромен,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0.125
+адиабатен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+доволен,A,FALSE,,,FALSE,FALSE,FALSE,0.75,0
+напълно изсъхнал,A,FALSE,,,FALSE,FALSE,FALSE,0,0.625
+откриваем,A,FALSE,,,FALSE,FALSE,FALSE,0.625,0
+хидрофобен,A,FALSE,,,FALSE,FALSE,FALSE,0,0.75
+анорексия нервоза,N,TRUE,disability,,FALSE,FALSE,FALSE,0,0.625
